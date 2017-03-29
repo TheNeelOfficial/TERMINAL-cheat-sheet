@@ -11,6 +11,7 @@ This is a cheat sheet sheet served with all the important commands used in the m
 <li><h2><a href="#file">FILE MANIPULATION COMMANDS</a></h2></li>
 <li><h2><a href="#network">NETWORKING COMMANDS</a></h2></li>
 <li><h2><a href="#system">SYSTEM COMMANDS</a></h2></li>
+<li><h2><a href="#performance">PERFORMANCE COMMANDS</a></h2></li>
 </ul>
 </pre>
 
@@ -283,6 +284,27 @@ This is a cheat sheet sheet served with all the important commands used in the m
   <tr>
     <td>whoami</td>
     <td>Who you are logged in as.</td> 
+  </tr>
+</table>
+<h4 align="center"><a href="#index">Back to index</a></h4>
+
+<h2 id="performance" align="center">PERFORMANCE COMMANDS</h2>
+<table>
+  <tr>
+    <th>COMMAND                           </th>
+    <th>description                                                          </th>
+  </tr>
+  <tr>
+    <td>top</td>
+    <td>Display and manage the top processes.</td> 
+  </tr>
+  <tr>
+    <td>lsof</td>
+    <td>List all open files on the system.</td> 
+  </tr>
+   <tr>
+    <td>lsof -u user-name</td>
+    <td>List files opened by user.</td> 
   </tr>
 </table>
 <h4 align="center"><a href="#index">Back to index</a></h4>
