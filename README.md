@@ -10,6 +10,7 @@ This is a cheat sheet sheet served with all the important commands used in the m
 <li><h2><a href="#directory">DIRECTORY MANIPULATION COMMANDS</a></h2></li>
 <li><h2><a href="#file">FILE MANIPULATION COMMANDS</a></h2></li>
 <li><h2><a href="#network">NETWORKING COMMANDS</a></h2></li>
+<li><h2><a href="#system">SYSTEM COMMANDS</a></h2></li>
 </ul>
 </pre>
 
@@ -237,6 +238,52 @@ This is a cheat sheet sheet served with all the important commands used in the m
     <td>host domain-name</td>
     <td>Display DNS ip address for domain.</td> 
   </tr>  
+</table>
+<h4 align="center"><a href="#index">Back to index</a></h4>
+
+
+<h2 id="system" align="center">SYSTEM COMMANDS</h2>
+<table>
+  <tr>
+    <th>COMMAND                           </th>
+    <th>description                                                          </th>
+  </tr>
+  <tr>
+    <td>uname</td>
+    <td>Display the kernal name.</td> 
+  </tr>
+  <tr>
+    <td>uname -r</td>
+    <td>Display kernel release information.</td> 
+  </tr>
+   <tr>
+    <td>uptime</td>
+    <td>Show how long the system has been running.</td> 
+  </tr>
+   <tr>
+    <td>hostname</td>
+    <td>Show system host name.</td> 
+  </tr>
+   <tr>
+    <td>last reboot</td>
+    <td>Show system reboot history.</td> 
+  </tr>
+   <tr>
+    <td>date</td>
+    <td>Show the current date and time.</td> 
+  </tr>
+   <tr>
+    <td>cal</td>
+    <td>Show this month's calendar.</td> 
+  </tr>
+  <tr>
+    <td>w</td>
+    <td>Display who is online.</td> 
+  </tr>
+  <tr>
+    <td>whoami</td>
+    <td>Who you are logged in as.</td> 
+  </tr>
 </table>
 <h4 align="center"><a href="#index">Back to index</a></h4>
 
