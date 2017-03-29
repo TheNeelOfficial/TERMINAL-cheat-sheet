@@ -91,7 +91,7 @@ This is a cheat sheet sheet served with all the important commands used in the m
     <td>Puts whatever you are running into a suspended background process. fg restores it.</td> 
   </tr>
 </table>
-<h2 align="center"><a href="#index">Back to index</a></h2>
+<h4 align="center"><a href="#index">Back to index</a></h4>
 
 
 <h2 id="directory" align="center">DIRECTORY MANIPULATION COMMANDS</h2>
