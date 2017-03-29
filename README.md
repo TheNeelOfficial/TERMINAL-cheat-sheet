@@ -6,8 +6,8 @@ This is a cheat sheet sheet served with all the important commands used in the m
 <pre>
 <ul>
 <li><a href="#shortcuts" >SHORTCUTS</a></li>
-<li><a href="#file">FILE AND DIRECTORY COMMANDS</a></li>
-<li><a href="directory">DIRECTORY MANIPULATION COMMANDS</a></li>
+<li><a href="#directory">DIRECTORY MANIPULATION COMMANDS</a></li>
+<li><a href="#file">FILE MANIPULATION COMMANDS</a></li>
 </ul>
 </pre>
 
@@ -94,7 +94,7 @@ This is a cheat sheet sheet served with all the important commands used in the m
 
 
 
-<h2 id="file" align="center">FILE AND DIRECTORY COMMANDS</h2>
+<h2 id="directory" align="center">FILE AND DIRECTORY COMMANDS</h2>
 <table>
   <tr>
     <th>COMMAND                           </th>
@@ -135,6 +135,64 @@ This is a cheat sheet sheet served with all the important commands used in the m
    <tr>
     <td>cp -r source_directory-name destination_directory-name</td>
     <td>Copy source_directory recursively to destination.</td> 
+  </tr>
+   
+</table>
+
+
+<h2 id="file" align="center">FILE MANIPULATION COMMANDS</h2>
+<table>
+  <tr>
+    <th>COMMAND                           </th>
+    <th>description                                                          </th>
+  </tr>
+  <tr>
+    <td>touch file-name</td>
+    <td>Create an empty file or update the access and modification times of file.</td> 
+  </tr>
+  <tr>
+    <td>rm file-name</td>
+    <td>Remove (delete) file.</td> 
+  </tr>
+   <tr>
+    <td>rm -f file</td>
+    <td>Force removal of file without prompting for confirmation.</td> 
+  </tr>
+   <tr>
+    <td>cp file1 file2</td>
+    <td>Copy file1 to file2.</td> 
+  </tr>
+   <tr>
+    <td>mv file1 file2</td>
+    <td>Rename or move file1 to file2. If file2 is an existing directory, move file1 into directory file2.</td> 
+  </tr>
+   <tr>
+    <td>cat file-name</td>
+    <td>View the contents of file.</td> 
+  </tr>
+   <tr>
+    <td>less file-name</td>
+    <td>Browse through a text file.</td> 
+  </tr>
+  <tr>
+    <td>head file-name</td>
+    <td>Display the first 10 lines of file.</td> 
+  </tr>
+   <tr>
+    <td>tail file-name</td>
+    <td>Display the last 10 lines of file.</td> 
+  </tr>
+  <tr>
+    <td>chown user-name file-name</td>
+    <td>changes the owner of a file.</td> 
+  </tr>
+  <tr>
+    <td>sudo command</td>
+    <td>exicutes the command as super user.</td> 
+  </tr>
+  <tr>
+    <td>chmod permissions file-name</td>
+    <td>Display the last 10 lines of file.</td> 
   </tr>
    
 </table>
