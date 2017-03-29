@@ -9,6 +9,7 @@ This is a cheat sheet sheet served with all the important commands used in the m
 <li><h2><a href="#shortcuts" >SHORTCUTS</a></h2></li>
 <li><h2><a href="#directory">DIRECTORY MANIPULATION COMMANDS</a></h2></li>
 <li><h2><a href="#file">FILE MANIPULATION COMMANDS</a></h2></li>
+<li><h2><a href="#network">NETWORKING COMMANDS</a></h2></li>
 </ul>
 </pre>
 
@@ -140,6 +141,7 @@ This is a cheat sheet sheet served with all the important commands used in the m
   </tr>
    
 </table>
+<h4 align="center"><a href="#index">Back to index</a></h4>
 
 
 <h2 id="file" align="center">FILE MANIPULATION COMMANDS</h2>
@@ -198,5 +200,46 @@ This is a cheat sheet sheet served with all the important commands used in the m
   </tr>
    
 </table>
+<h4 align="center"><a href="#index">Back to index</a></h4>
+
+
+<h2 id="network" align="center">NETWORK COMMANDS</h2>
+<table>
+  <tr>
+    <th>COMMAND                           </th>
+    <th>description                                                          </th>
+  </tr>
+  <tr>
+    <td>ifconfig</td>
+    <td>Display all network interfaces and ip address.</td> 
+  </tr>
+  <tr>
+    <td>ifconfig eth0</td>
+    <td>Display eth0 address and details.</td> 
+  </tr>
+   <tr>
+    <td>ping host-name</td>
+    <td>Send ICMP echo request to host.</td> 
+  </tr>
+   <tr>
+    <td>whois domain-name</td>
+    <td>Display whois information for domain.</td> 
+  </tr>
+   <tr>
+    <td>dig domain-name</td>
+    <td>Display DNS information for domain.</td> 
+  </tr>
+   <tr>
+    <td>dig -x IP_ADDRESS</td>
+    <td>Reverse lookup of IP_ADDRESS.</td> 
+  </tr>
+   <tr>
+    <td>host domain-name</td>
+    <td>Display DNS ip address for domain.</td> 
+  </tr>  
+</table>
+<h4 align="center"><a href="#index">Back to index</a></h4>
+
+
 
 
