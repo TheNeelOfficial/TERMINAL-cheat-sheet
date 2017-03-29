@@ -38,7 +38,7 @@ This is a cheat sheet sheet served with all the important commands used in the m
   </tr>
    <tr>
     <td>Ctrl + U</td>
-    <td>Clears the line before the cursor position.If you are at the end of the line,clears the entire line.</td> 
+    <td>Clears the line before the cursor position.If you are at the end of<br/>the line,clears the entire line.</td> 
   </tr>
    <tr>
     <td>Ctrl + W</td>
@@ -90,7 +90,7 @@ This is a cheat sheet sheet served with all the important commands used in the m
   </tr>
   <tr>
     <td>Ctrl + Z</td>
-    <td>Puts whatever you are running into a suspended background process. fg restores it.</td> 
+    <td>Puts whatever you are running into a suspended background process.<br/>fg restores it.</td> 
   </tr>
 </table>
 <h4 align="center"><a href="#index">Back to index</a></h4>
