@@ -1,7 +1,7 @@
 # TERMINAL-cheat-sheet
 This is a cheat sheet sheet served with all the important commands used in the mac os terminal.
 
-<h2 align="center" >INDEX</h2>
+<h2 align="center" id="index">INDEX</h2>
 
 <pre>
 <ul>
@@ -91,10 +91,10 @@ This is a cheat sheet sheet served with all the important commands used in the m
     <td>Puts whatever you are running into a suspended background process. fg restores it.</td> 
   </tr>
 </table>
+<h2 align="center"><a href="#index">Back to index</a></h2>
 
 
-
-<h2 id="directory" align="center">FILE AND DIRECTORY COMMANDS</h2>
+<h2 id="directory" align="center">DIRECTORY MANIPULATION COMMANDS</h2>
 <table>
   <tr>
     <th>COMMAND                           </th>
