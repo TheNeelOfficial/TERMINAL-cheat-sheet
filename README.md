@@ -1,9 +1,10 @@
 # TERMINAL-cheat-sheet
 This is a cheat sheet sheet served with all the important commands used in the mac os terminal.
 
-<pre>
+
 <h2 align="center" id="index">INDEX</h2>
 
+<pre>
 <ul>
 <li><h2><a href="#shortcuts" >SHORTCUTS</a></h2></li>
 <li><h2><a href="#directory">DIRECTORY MANIPULATION COMMANDS</a></h2></li>
@@ -13,6 +14,7 @@ This is a cheat sheet sheet served with all the important commands used in the m
 
 
 <h2 align="center" id="shortcuts">SHORTCUTS</h2>
+<pre>
 <table>
   <tr>
     <th>KEYS                               </th>
@@ -92,7 +94,7 @@ This is a cheat sheet sheet served with all the important commands used in the m
   </tr>
 </table>
 <h4 align="center"><a href="#index">Back to index</a></h4>
-
+</pre>
 
 <h2 id="directory" align="center">DIRECTORY MANIPULATION COMMANDS</h2>
 <table>
