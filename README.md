@@ -1,20 +1,20 @@
 # TERMINAL-cheat-sheet
 This is a cheat sheet sheet served with all the important commands used in the mac os terminal.
 
-<pre>
-<h2 align="center" id="index">INDEX</h2>
-</pre>
 
+<h2 align="center" id="index">INDEX</h2>
+
+<pre>
 <ul>
 <li><h2><a href="#shortcuts" >SHORTCUTS</a></h2></li>
 <li><h2><a href="#directory">DIRECTORY MANIPULATION COMMANDS</a></h2></li>
 <li><h2><a href="#file">FILE MANIPULATION COMMANDS</a></h2></li>
 </ul>
-
+</pre>
 
 
 <h2 align="center" id="shortcuts">SHORTCUTS</h2>
-<pre>
+
 <table>
   <tr>
     <th>KEYS                               </th>
@@ -38,7 +38,7 @@ This is a cheat sheet sheet served with all the important commands used in the m
   </tr>
    <tr>
     <td>Ctrl + U</td>
-    <td>Clears the line before the cursor position.If you are at the end of<br/>the line,clears the entire line.</td> 
+    <td>Clears the line before the cursor position.If you are at the end of the line,clears the entire line.</td> 
   </tr>
    <tr>
     <td>Ctrl + W</td>
@@ -90,11 +90,11 @@ This is a cheat sheet sheet served with all the important commands used in the m
   </tr>
   <tr>
     <td>Ctrl + Z</td>
-    <td>Puts whatever you are running into a suspended background process.<br/>fg restores it.</td> 
+    <td>Puts whatever you are running into a suspended background process.fg restores it.</td> 
   </tr>
 </table>
 <h4 align="center"><a href="#index">Back to index</a></h4>
-</pre>
+
 
 <h2 id="directory" align="center">DIRECTORY MANIPULATION COMMANDS</h2>
 <table>
