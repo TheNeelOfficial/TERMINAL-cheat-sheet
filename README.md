@@ -5,7 +5,7 @@ This is a cheat sheet sheet served with all the important commands used in the m
 
 <pre>
 <ul>
-<li><a href="#shortcuts" >SHORTCUTS</a></li>
+<li><h2><a href="#shortcuts" >SHORTCUTS</a></h2></li>
 <li><a href="#directory">DIRECTORY MANIPULATION COMMANDS</a></li>
 <li><a href="#file">FILE MANIPULATION COMMANDS</a></li>
 </ul>
@@ -192,7 +192,7 @@ This is a cheat sheet sheet served with all the important commands used in the m
   </tr>
   <tr>
     <td>chmod permissions file-name</td>
-    <td>Display the last 10 lines of file.</td> 
+    <td>changes the permissions of the file.</td> 
   </tr>
    
 </table>
